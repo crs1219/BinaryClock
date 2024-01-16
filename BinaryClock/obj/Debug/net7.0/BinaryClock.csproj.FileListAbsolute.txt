@@ -1,0 +1,15 @@
+/Users/cristinanemcea/BinaryClock/BinaryClock/bin/Debug/net7.0/BinaryClock
+/Users/cristinanemcea/BinaryClock/BinaryClock/bin/Debug/net7.0/BinaryClock.deps.json
+/Users/cristinanemcea/BinaryClock/BinaryClock/bin/Debug/net7.0/BinaryClock.runtimeconfig.json
+/Users/cristinanemcea/BinaryClock/BinaryClock/bin/Debug/net7.0/BinaryClock.dll
+/Users/cristinanemcea/BinaryClock/BinaryClock/bin/Debug/net7.0/BinaryClock.pdb
+/Users/cristinanemcea/BinaryClock/BinaryClock/obj/Debug/net7.0/BinaryClock.csproj.AssemblyReference.cache
+/Users/cristinanemcea/BinaryClock/BinaryClock/obj/Debug/net7.0/BinaryClock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cristinanemcea/BinaryClock/BinaryClock/obj/Debug/net7.0/BinaryClock.AssemblyInfoInputs.cache
+/Users/cristinanemcea/BinaryClock/BinaryClock/obj/Debug/net7.0/BinaryClock.AssemblyInfo.cs
+/Users/cristinanemcea/BinaryClock/BinaryClock/obj/Debug/net7.0/BinaryClock.csproj.CoreCompileInputs.cache
+/Users/cristinanemcea/BinaryClock/BinaryClock/obj/Debug/net7.0/BinaryClock.dll
+/Users/cristinanemcea/BinaryClock/BinaryClock/obj/Debug/net7.0/refint/BinaryClock.dll
+/Users/cristinanemcea/BinaryClock/BinaryClock/obj/Debug/net7.0/BinaryClock.pdb
+/Users/cristinanemcea/BinaryClock/BinaryClock/obj/Debug/net7.0/BinaryClock.genruntimeconfig.cache
+/Users/cristinanemcea/BinaryClock/BinaryClock/obj/Debug/net7.0/ref/BinaryClock.dll
